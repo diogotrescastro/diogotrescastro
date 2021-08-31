@@ -1,13 +1,13 @@
 <h1 align="center">Hey!👋 Sou o Diogo Augusto</h1>
 <h3 align="center">Programador Full Stack</h3>
 
-- 🌱 Estudante de Desenvolvimento de Software na Trybe. ** Aprendo sobre Front-End, Back-End e Ciências da Computação.**
+- 🌱 Estudante de Desenvolvimento de Software na Trybe. **Aprendo sobre Front-End, Back-End e Ciências da Computação.**
 
 - 👨‍💻 Veja meu portfólio: [diogoaugusto.dev](diogoaugusto.dev)
 
 - 📝 Confira meu Linkedin: [https://www.linkedin.com/in/diogoaugusto/](https://www.linkedin.com/in/diogoaugusto/)
 
-- 💬 Me pergunte sobre: **React, JavaScript, HTML e CSS.**
+- 💬 Me pergunte sobre: **React, JavaScript, HTML e CSS**
 
 - 📫 Fale comigo pelo e-mail: **diogotrescastro@gmail.com**
 
