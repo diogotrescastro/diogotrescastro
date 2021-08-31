@@ -18,8 +18,8 @@
 
 <div>
   <a href="https://github.com/diogotrescastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogotrescastro&include_all_commits=true&hide=stars,issues&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogotrescastro&langs_count=5&theme=tokyonight&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogotrescastro&include_all_commits=true&hide=stars,issues&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogotrescastro&langs_count=5&theme=tokyonight&locale=pt-br"/>
 </div>
 
  <h3 align="left">Conecte-se Comigo:</h3>
