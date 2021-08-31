@@ -3,7 +3,7 @@
 
 - 🌱 Estudante de Desenvolvimento de Software na Trybe. **Aprendo sobre Front-End, Back-End e Ciências da Computação.**
 
-- 👨‍💻 Veja meu portfólio: [diogoaugusto.dev](diogoaugusto.dev)
+- 👨‍💻 Veja meu portfólio: [diogoaugusto.dev](https://diogoaugusto.dev/)
 
 - 📝 Confira meu Linkedin: [https://www.linkedin.com/in/diogoaugusto/](https://www.linkedin.com/in/diogoaugusto/)
 
