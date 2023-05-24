@@ -1,8 +1,6 @@
 <h1 align="center">Hey, sou o Diogo Augusto 👋</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🌱 Estudante de Desenvolvimento de Software na Trybe. **Aprendo sobre Front-End, Back-End e Ciências da Computação.**
-
 - 👨‍💻 [Veja meu portfólio](https://diogoaugusto.dev/)
 
 - 📝 [Confira meu Linkedin](https://www.linkedin.com/in/diogoaugusto/)
